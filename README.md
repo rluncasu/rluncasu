@@ -20,3 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rluncasu&show_icons=true&locale=en" alt="rluncasu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rluncasu&" alt="rluncasu" /></p>
+
+Does this equation render?
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
